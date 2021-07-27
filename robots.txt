@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vascoalramos.me/sitemap/sitemap-index.xml
+Host: https://vascoalramos.me
